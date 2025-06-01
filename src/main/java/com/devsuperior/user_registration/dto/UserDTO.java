@@ -1,6 +1,6 @@
 package com.devsuperior.user_registration.dto;
 
-import com.devsuperior.user_registration.user.User;
+import com.devsuperior.user_registration.entities.User;
 
 public class UserDTO {
 

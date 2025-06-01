@@ -1,4 +1,4 @@
-package com.devsuperior.user_registration.user;
+package com.devsuperior.user_registration.entities;
 import jakarta.persistence.*;
 
 @Entity
